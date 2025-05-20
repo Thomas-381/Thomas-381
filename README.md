@@ -7,7 +7,7 @@ Je suis étudiant à l'IUT2 de Grenoble (à l'UGA), actuellement en 2e année de
 - **Langages & technologies** :  
   C++, Java, PHP, HTML, CSS, JavaScript  
   Frameworks : Symfony  
-  Base de données : PostgreSQL, SQLite
+  Base de données : PostgreSQL, SQLite \
   Conteneurisation : Docker, Docker Compose
 
 - **SysAdmin amateur** :  
